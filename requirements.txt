@@ -1,0 +1,11 @@
+#sphinx==1.5.5
+sphinx==2.0.1
+sphinx-argparse
+git+https://github.com/rmk135/sphinxcontrib-disqus
+pandas
+nbconvert!=5.4
+ipykernel
+matplotlib
+git+https://github.com/spatialaudio/nbsphinx.git@master
+sphinx-gitstamp==0.3.1
+pygments>=2.4.1
